@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.apoprojetdegut.main"},{"l":"fr.apoprojetdegut.main.dynamique"},{"l":"fr.apoprojetdegut.main.dynamique.scrutins"},{"l":"fr.apoprojetdegut.main.extensions.SaveExcel"},{"l":"fr.apoprojetdegut.main.personne"}];updateSearchResults();
